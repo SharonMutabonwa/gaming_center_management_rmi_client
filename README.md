@@ -120,4 +120,4 @@ The method call appears local but is executed remotely on the server.
 This client application requires the Gaming Center Server to be running.
 
 Server Repository:
-https://github.com/<your-username>/gaming-center-server
+[https://github.com/<your-username>/gaming-center-server](https://github.com/SharonMutabonwa/gaming_center_management_rmi_server.git)
