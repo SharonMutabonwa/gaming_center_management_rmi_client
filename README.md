@@ -116,7 +116,8 @@ The method call appears local but is executed remotely on the server.
 
 ---
 
-## ✅ Summary
+## 🔗 Related Project
+This client application requires the Gaming Center Server to be running.
 
-The Client Application provides a clean, user-friendly interface for managing a gaming center while delegating all critical logic and data handling to the server for security, scalability, and maintainability.
-
+Server Repository:
+https://github.com/<your-username>/gaming-center-server
